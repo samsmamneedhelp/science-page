@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Science</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+    <h1>Science</h1>
+    
+    
+    <img src="https://i.pinimg.com/736x/dc/3b/1e/dc3b1e57a38c8bfcffb92f2545c571de.jpg" width="1850" height="850" alt="Science Image 1">
+    <img src="https://i.pinimg.com/736x/f7/c7/90/f7c790a9f7348295a82075e657154644.jpg"1850" height="850" alt="Science Image 2">
+    <img src="https://i.pinimg.com/736x/40/33/3a/40333a271648d79d5505a9a6615bb4ab.jpg" width="1850" height="850" alt="Science Image 3">
+    <img src="https://i.pinimg.com/736x/08/d1/9e/08d19e9bd877d46f31e4fc5819b9924d.jpg" width="1850" height="850" alt="Science Image 4">
+
+</body>
+</html>
